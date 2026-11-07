@@ -1,0 +1,14 @@
+{
+  "name": "lab1-devops-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API pédagogique Express et PostgreSQL pour un laboratoire Docker Compose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.21.2",
+    "pg": "8.13.1"
+  }
+}
